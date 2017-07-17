@@ -4,3 +4,6 @@
 [submodule "obj"]
 	path = obj
 	url = https://github.com/miketestgit02/obj
+[submodule "Properties"]
+	path = Properties
+	url = https://github.com/miketestgit02/Properties
