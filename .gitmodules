@@ -1,3 +1,6 @@
 [submodule "bin"]
 	path = bin
 	url = https://github.com/miketestgit02/bin
+[submodule "obj"]
+	path = obj
+	url = https://github.com/miketestgit02/obj
